@@ -1,0 +1,14 @@
+.marko{
+    fonr_size :40px;
+    color:green;
+}
+.m{
+    color: green;
+    width: 100px;
+}
+.marko1{
+    color: which;
+}
+.marko2{
+   color: black; 
+}
